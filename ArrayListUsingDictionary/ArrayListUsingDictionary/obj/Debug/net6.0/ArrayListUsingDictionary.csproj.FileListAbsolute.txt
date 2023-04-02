@@ -1,0 +1,5 @@
+C:\Users\91790\Desktop\Remap Dotnet\ArrayListUsingDictionary\ArrayListUsingDictionary\obj\Debug\net6.0\ArrayListUsingDictionary.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\Remap Dotnet\ArrayListUsingDictionary\ArrayListUsingDictionary\obj\Debug\net6.0\ArrayListUsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\Remap Dotnet\ArrayListUsingDictionary\ArrayListUsingDictionary\obj\Debug\net6.0\ArrayListUsingDictionary.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\Remap Dotnet\ArrayListUsingDictionary\ArrayListUsingDictionary\obj\Debug\net6.0\ArrayListUsingDictionary.AssemblyInfo.cs
+C:\Users\91790\Desktop\Remap Dotnet\ArrayListUsingDictionary\ArrayListUsingDictionary\obj\Debug\net6.0\ArrayListUsingDictionary.csproj.CoreCompileInputs.cache
